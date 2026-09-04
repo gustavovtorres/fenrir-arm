@@ -1,5 +1,5 @@
 motor_base:
   id: 1
-  baud_rate: 57600
+  baud_rate: 9600
   max_speed: 60
   acceleration:
